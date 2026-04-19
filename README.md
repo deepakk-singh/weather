@@ -4,7 +4,7 @@
 ![weather](https://img.shields.io/badge/API-openweather-blue?style=flat-square&logo=api)
 
 ## About:
-This app uses the Open weather Api to get the data of the weather. </br>
+This app uses the Open weather Api to get the data of the Weather. </br>
 It generates the data in the form of json.</br>
 
 ## Technologies Used:
